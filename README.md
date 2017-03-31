@@ -1,0 +1,1 @@
+amccann-eslint-config
